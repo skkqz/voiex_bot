@@ -10,4 +10,4 @@
     Команды:
     /start - Запускает бота
     
-    ![Image alt](https://github.com/skkqz/voiex_bot/blob/main/image/1.bmp)
+    ![Image alt](https://raw.githubusercontent.com/skkqz/voiex_bot/main/image/1.bmp)
